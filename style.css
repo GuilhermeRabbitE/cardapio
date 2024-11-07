@@ -1,0 +1,24 @@
+body {
+    justify-content: center;
+    background-color: #F4F5FB;
+}
+.dale {
+}
+.form {
+}
+input, button { 
+    border-color: #D1D5DB;
+}
+ul {
+}
+li {
+    background-color: #FFFFFF;
+}
+.dale{
+    border: 5px solid black;
+    width: 900px;
+    height: 600px;
+}
+.dale{
+    display: flex;
+}
